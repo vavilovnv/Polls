@@ -1,0 +1,2 @@
+# Polls
+Django tutorial project
